@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.27
+httpx>=0.26
+geoip2>=4.8
+maxminddb>=2.5
+apscheduler>=3.10
