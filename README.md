@@ -5,7 +5,9 @@ This project is a modern reimplementation of an earlier Onionview service that I
 
 ## GeoIP Database
 Download the latest GeoLite2 City database from: https://github.com/wp-statistics/GeoLite2-City
+
 Extract the following file: GeoLite2-City.mmdb
+
 Place the file in the project root directory, alongside main.py
 
 ## Use
